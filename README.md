@@ -2,7 +2,7 @@
 
 Finding the smallest-width annulus enclosing a given point set.
 
-#### Example output
+## Example output
 ![example](images/all-border.png)
 Left to right:
 * Point set
@@ -11,7 +11,7 @@ Left to right:
 * Diagram overlay
 * Smallest-width annulus
 
-#### Algorithm steps
+## Algorithm steps
 1. Compute a Voronoi diagram with Fortune's algorithm
 2. Compute a farthest-point Voronoi diagram with an incremental algorithm
 3. Generate a set of annulus candidates by overlaying two diagrams
