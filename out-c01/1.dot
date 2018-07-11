@@ -1,0 +1,7 @@
+digraph{
+1266595226[label="leaf(1) site: (0)"];
+nullptr_l_1266595226[shape=point];
+1266595226 -> nullptr_l_1266595226[label="L"]
+nullptr_r_1266595226[shape=point];
+1266595226 -> nullptr_r_1266595226[label="R"]
+}

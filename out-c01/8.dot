@@ -1,0 +1,87 @@
+digraph{
+868351965[label="leaf(0) sites:(1,3)"];
+868351965 -> 765334738[label="L"]
+765334738[label="leaf(0) sites:(0,1)"];
+765334738 -> 295808629[label="L"]
+295808629[label="leaf(1) site: (0)"];
+nullptr_l_295808629[shape=point];
+295808629 -> nullptr_l_295808629[label="L"]
+nullptr_r_295808629[shape=point];
+295808629 -> nullptr_r_295808629[label="R"]
+295808629 -> 765334738[color=red style=dashed]
+765334738 -> 1555810283[label="R"]
+1555810283[label="leaf(0) sites:(1,2)"];
+1555810283 -> 1510627799[label="L"]
+1510627799[label="leaf(1) site: (1)"];
+nullptr_l_1510627799[shape=point];
+1510627799 -> nullptr_l_1510627799[label="L"]
+nullptr_r_1510627799[shape=point];
+1510627799 -> nullptr_r_1510627799[label="R"]
+1510627799 -> 1555810283[color=red style=dashed]
+1555810283 -> 1994368778[label="R"]
+1994368778[label="leaf(0) sites:(2,1)"];
+1994368778 -> 469460817[label="L"]
+469460817[label="leaf(1) site: (2)"];
+nullptr_l_469460817[shape=point];
+469460817 -> nullptr_l_469460817[label="L"]
+nullptr_r_469460817[shape=point];
+469460817 -> nullptr_r_469460817[label="R"]
+469460817 -> 1994368778[color=red style=dashed]
+1994368778 -> 1695238268[label="R"]
+1695238268[label="leaf(1) site: (1)"];
+nullptr_l_1695238268[shape=point];
+1695238268 -> nullptr_l_1695238268[label="L"]
+nullptr_r_1695238268[shape=point];
+1695238268 -> nullptr_r_1695238268[label="R"]
+1695238268 -> 1994368778[color=red style=dashed]
+1994368778 -> 1555810283[color=red style=dashed]
+1555810283 -> 765334738[color=red style=dashed]
+765334738 -> 868351965[color=red style=dashed]
+868351965 -> 129329764[label="R"]
+129329764[label="leaf(0) sites:(4,0)"];
+129329764 -> 1755282109[label="L"]
+1755282109[label="leaf(0) sites:(3,4)"];
+1755282109 -> 556605234[label="L"]
+556605234[label="leaf(0) sites:(3,6)"];
+556605234 -> 611115389[label="L"]
+611115389[label="leaf(1) site: (3)"];
+nullptr_l_611115389[shape=point];
+611115389 -> nullptr_l_611115389[label="L"]
+nullptr_r_611115389[shape=point];
+611115389 -> nullptr_r_611115389[label="R"]
+611115389 -> 556605234[color=red style=dashed]
+556605234 -> 833933430[label="R"]
+833933430[label="leaf(0) sites:(6,3)"];
+833933430 -> 1210384918[label="L"]
+1210384918[label="leaf(1) site: (6)"];
+nullptr_l_1210384918[shape=point];
+1210384918 -> nullptr_l_1210384918[label="L"]
+nullptr_r_1210384918[shape=point];
+1210384918 -> nullptr_r_1210384918[label="R"]
+1210384918 -> 833933430[color=red style=dashed]
+833933430 -> 447201866[label="R"]
+447201866[label="leaf(1) site: (3)"];
+nullptr_l_447201866[shape=point];
+447201866 -> nullptr_l_447201866[label="L"]
+nullptr_r_447201866[shape=point];
+447201866 -> nullptr_r_447201866[label="R"]
+447201866 -> 833933430[color=red style=dashed]
+833933430 -> 556605234[color=red style=dashed]
+556605234 -> 1755282109[color=red style=dashed]
+1755282109 -> 592327759[label="R"]
+592327759[label="leaf(1) site: (4)"];
+nullptr_l_592327759[shape=point];
+592327759 -> nullptr_l_592327759[label="L"]
+nullptr_r_592327759[shape=point];
+592327759 -> nullptr_r_592327759[label="R"]
+592327759 -> 1755282109[color=red style=dashed]
+1755282109 -> 129329764[color=red style=dashed]
+129329764 -> 245246554[label="R"]
+245246554[label="leaf(1) site: (0)"];
+nullptr_l_245246554[shape=point];
+245246554 -> nullptr_l_245246554[label="L"]
+nullptr_r_245246554[shape=point];
+245246554 -> nullptr_r_245246554[label="R"]
+245246554 -> 129329764[color=red style=dashed]
+129329764 -> 868351965[color=red style=dashed]
+}

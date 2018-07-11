@@ -1,0 +1,27 @@
+digraph{
+868351965[label="leaf(0) sites:(0,4)"];
+868351965 -> 106232231[label="L"]
+106232231[label="leaf(1) site: (0)"];
+nullptr_l_106232231[shape=point];
+106232231 -> nullptr_l_106232231[label="L"]
+nullptr_r_106232231[shape=point];
+106232231 -> nullptr_r_106232231[label="R"]
+106232231 -> 868351965[color=red style=dashed]
+868351965 -> 129329764[label="R"]
+129329764[label="leaf(0) sites:(4,0)"];
+129329764 -> 379931796[label="L"]
+379931796[label="leaf(1) site: (4)"];
+nullptr_l_379931796[shape=point];
+379931796 -> nullptr_l_379931796[label="L"]
+nullptr_r_379931796[shape=point];
+379931796 -> nullptr_r_379931796[label="R"]
+379931796 -> 129329764[color=red style=dashed]
+129329764 -> 245246554[label="R"]
+245246554[label="leaf(1) site: (0)"];
+nullptr_l_245246554[shape=point];
+245246554 -> nullptr_l_245246554[label="L"]
+nullptr_r_245246554[shape=point];
+245246554 -> nullptr_r_245246554[label="R"]
+245246554 -> 129329764[color=red style=dashed]
+129329764 -> 868351965[color=red style=dashed]
+}
