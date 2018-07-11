@@ -3,7 +3,7 @@
 Finding the smallest-width annulus enclosing a given point set.
 
 #### Example output
-![example](images/all-border.png)
+![example](images/all-border.jpg)
 Left to right:
 * Point set
 * Voronoi diagram in a bounding box
