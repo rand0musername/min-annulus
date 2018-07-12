@@ -16,3 +16,6 @@ Left to right:
 2. Compute a farthest-point Voronoi diagram with an incremental algorithm
 3. Generate a set of annulus candidates by overlaying two diagrams
 4. Choose the best candidate (the one with the smallest width)
+
+## Dependencies
+* SFML 2.3.2
