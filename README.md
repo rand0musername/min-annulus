@@ -1,6 +1,6 @@
 # min-annulus
 
-Finding the smallest-width annulus (the region between two concentric circles) enclosing a given set of points. The procedure is used in practice to measure the *roundness* of physical objects based on samples from their edge. 
+Finding the smallest-width annulus (ring, the region between two concentric circles) enclosing a given set of points. The procedure is used in practice to measure the *roundness* of physical objects based on samples from their edge. 
 
 Done in 2018 as a Computational Geometry BSc course project.
 
