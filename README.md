@@ -14,7 +14,7 @@ Based on Section 7.4 of the "[Computational Geometry, Algorithms and Application
 5. Choose the best candidate (the one with the smallest width)
 
 ## Example output
-(Each visualization corresponds to one algorithm step)
+(Each visualization corresponds to one of the algorithm steps listed above)
 ![example](images/all-border.png)
 
 ## Dependencies
